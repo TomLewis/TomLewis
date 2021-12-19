@@ -3,8 +3,8 @@
 ### Ahoy 👋
 
 - 🏴‍☠️ Owner of [PirateCraft](https://piratemc.com) EST 2012
-  - ⚓350,000+ Unique players
-  - ⚓8+ Years survival
+  - ⚓400,000+ Unique players
+  - ⚓9+ Years survival
   - ⚓No Map resets
   - ⚓Custom Plugins
   - ⚓Custom mobs for events
